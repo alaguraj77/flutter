@@ -118,9 +118,7 @@ class _MainappState extends State<Mainapp> {
                 inputText = (calc / input).toString();
               }
 
-              // inputText =
-              //     (double.parse(claclulatedValue) + double.parse(inputText))
-              //         .toString();
+            
             }),
           }
         else
